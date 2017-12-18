@@ -1,0 +1,18 @@
+
+.user {
+    height: 250px;
+    margin: 70px 0 30px;
+
+}
+
+
+.thumbnail {
+    border: 0 none;
+    padding:10px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.thumbnail .caption {
+    color: inherit;
+}
